@@ -8,12 +8,12 @@ To explore and utilize this repository, you can follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/fafsin495/Data_Visualization_Example.git
+      git clone https://github.com/fafsin495/Data_Visualization_Example.git
 
 
 2. Install the necessary dependencies by creating a virtual environment and running the following command inside the project directory:
 
-pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
 3. Explore the `notebooks/` directory to find different examples of data visualization using popular libraries such as Matplotlib, Seaborn, and Plotly. Each notebook provides code samples, explanations, and visual outputs.
@@ -22,7 +22,6 @@ pip install -r requirements.txt
 
 5. Experiment with different visualization techniques, customize the plots to suit your needs, and analyze the insights obtained from the visualizations.
 
-6. Save any additional visualizations or results in the `results/` directory. This will help you keep track of your work and easily share or present your findings.
 
 ## Contributing
 
